@@ -98,6 +98,8 @@ Projeto com a proposta de utilizarmos o Jest para escrita de testes para codigo 
 - teste de codigo async
 - mock de funções
 
+[link para o repo](https://github.com/viniciusfranca019/sd-010-a-project-jest/tree/master)
+
 ---
 
 # Front-End
